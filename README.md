@@ -74,3 +74,10 @@ It can be extended for:
 
 ⭐ *Feel free to explore, download, and analyze the dataset!*
 
+---
+
+## 📄 Resume
+
+👉 [Click here to download my resume](Monika_M_Data_Analyst_Resume.pdf)
+
+
